@@ -1,0 +1,5 @@
+githubMapping = {"mappings": {
+    "github": {
+    }
+}
+}
